@@ -1,0 +1,6 @@
+services:
+  html-to-pdf-watch:
+    build: .
+    volumes:
+      - ./html:/app/html
+    container_name: html-to-pdf-watch
