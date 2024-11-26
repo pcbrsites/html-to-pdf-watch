@@ -14,18 +14,6 @@
 - 🐳 Docker instalado
 - 🐳 Docker Compose instalado 
 
-## 🚀 Como Usar
-
-1. 📦 **Construa e inicie com Docker Compose:**
-
-### [README.md](file:///home/paulo/Área%20de%20Trabalho/html-to-pdf-watch/README.md)
-
-Adicione um exemplo de como executar o projeto.
-
-```markdown
-
-
-// ...existing code...
 
 ## 🚀 Como Usar
 
